@@ -91,6 +91,7 @@ Photography and videography portfolio of visual work.
 
 ## GitHub Stats
 
+<!-- GitHub Stats & Top Languages cards temporarily removed while the shared github-readme-stats.vercel.app service is paused (HTTP 503 DEPLOYMENT_PAUSED). To restore, uncomment below and delete the standalone streak block after this comment:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahil-k-george&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=sahil-k-george&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -98,6 +99,11 @@ Photography and videography portfolio of visual work.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-k-george&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sahil-k-george&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
